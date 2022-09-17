@@ -1,2 +1,2 @@
 # GettingStartedDjango
-Thise repository help you to initialise any project to developpe with Django Framework.
+Thise repository help you to initialise and create any Django Project.
